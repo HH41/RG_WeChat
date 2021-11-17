@@ -16,13 +16,13 @@ index.vue
 				title: 'Hello'
 			}
 		},
-		onLoad() {
+		onLoad()  {
 
 		},
 		methods: {
 
 		}
-	}
+	} 
 </script>
   
 <style>
